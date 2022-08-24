@@ -19,6 +19,7 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <remote.server>http://142.93.170.9:8081/manager/text</remote.server>
     </properties>
     <build>
         <plugins>
