@@ -26,6 +26,6 @@ public class Greetings {
                 return s + " and " + ((String[]) o)[(((String[]) o).length) - 1];
             }
         }
-        return "Du er havnet her somehow";
+        return "Du er havnet her somehow.";
     }
 }
